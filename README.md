@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Raksha Jain
 
 <!--
 **raksha009/raksha009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raksha009" alt="raksha009" /> </p>
+
+- 🔭 I’m currently working on **Web Development**.
+
+- 📫 How to reach me **raksha1906@gmail.com**
+
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=raksha009&show_icons=true" alt="raksha009" /> </p>
