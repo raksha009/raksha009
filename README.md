@@ -20,11 +20,18 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Web Development**.
 - ⚡ Fun fact: I love listening music!
 
- <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+ <p align="left">
  
-</p>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://icongr.am/devicon/java-original.svg?size=129&color=36a1c4" alt="java" width="20" height="20"/>
+ <img src="https://icongr.am/devicon/c-original.svg?size=129&color=36a1c4" alt="c" width="20" height="20"/>
+ <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="git" width="20" height="20"/> 
+ <img src="https://icongr.am/devicon/github-original.svg?size=129&color=36a1c4" alt="github" width="20" height="20"/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=raksha009&show_icons=true" alt="raksha009" /> </p>
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=raksha009&show_icons=true" alt="raksha009" /> 
+</p>
