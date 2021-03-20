@@ -47,10 +47,8 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=raksha009&hide=stars&show_icons=true&theme=dracula&line_height=32">
- </p>
- <p align= "right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksha009&count_private=true&theme=dracula">
+  <img align = " right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksha009&count_private=true&theme=dracula">
  
 </p>
-
+<br> <br>
 <h4 align="center"> Thanks for Visiting!!</h4>
