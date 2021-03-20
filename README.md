@@ -45,8 +45,10 @@ Here are some ideas to get you started:
  <img src="https://icongr.am/devicon/github-original.svg?size=129&color=36a1c4" alt="github" width="70" height="80"/>
  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "70">
 </p>
-<p align="center">
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=raksha009&hide=stars&show_icons=true&theme=dracula&line_height=32">
+ </p>
+ <p align= "right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksha009&count_private=true&theme=dracula">
  
 </p>
