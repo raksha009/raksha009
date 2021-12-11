@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=raksha009&style=flat) &nbsp;
-[![Github](https://img.shields.io/badge/-raksha009-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/raksha009)
+<!-- [![Github](https://img.shields.io/badge/-raksha009-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/raksha009) -->
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raksha009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha--jain/)
+[![Medium](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://raksha-jain.medium.com/)
 
 <!-- gif Image -->
 <img src="https://github.com/raksha009/Raksha_Readme/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
